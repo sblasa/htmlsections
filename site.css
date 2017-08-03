@@ -1,0 +1,37 @@
+body {
+    background-color: #D89BCC;
+
+}
+a:link {
+    color: #006875;
+}
+
+a:visited {
+    color: seashell;
+}
+
+h1 {
+    color: #A5156F;
+    font-family: Tahoma, Geneva, sans-serif;    
+}
+
+
+
+header, footer {
+    background-color: #88969A;
+    color: #A5156F;    
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+
+article {
+    background-color: #B770A4;
+    font-family: Tahoma, Geneva, sans-serif;
+    color: #006875;    
+}
+
+
+main {
+    background-color: #8AA8B0;
+
+}
