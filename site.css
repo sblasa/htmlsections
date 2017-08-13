@@ -27,6 +27,7 @@ header nav div {
 
 header nav ul {
     list-style: none;
+    float: left; 
 }
 
 a:link {
